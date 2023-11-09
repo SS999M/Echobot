@@ -1,1 +1,1 @@
-web: pythonProject_echobot.py
+web: gunicorn app:app
